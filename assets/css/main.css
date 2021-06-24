@@ -7,6 +7,10 @@
     color: #012;
     background-color: #FFF; } */
 
+  #myphoto{
+    width:20%;
+    height:auto;
+  }
   a {
     color: #57A;
     text-decoration: none; }
@@ -73,9 +77,9 @@
     float: left; }
 
   .logo, a.logo:hover {
-    font-size: 300%;
-    font-weight: 700;
-    color: #16a085;
+    font-size: 200%;
+    font-weight: 500;
+    color: #8d99ae;
     display: block;
     text-decoration: none; }
 
@@ -213,6 +217,10 @@
 
 /* =Small screen *//*************************************************************/
   @media (max-width: 600px) {
+    #myphoto {
+      width:60%;
+      height:auto;
+    }
     p, ul, ol, dl {
       font-size: 100%;
       line-height: 1.6; }
