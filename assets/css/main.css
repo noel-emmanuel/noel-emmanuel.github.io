@@ -216,7 +216,7 @@
     font-size: 130%; }
 
 /* =Small screen *//*************************************************************/
-  @media (max-width: 600px) {
+  @media (max-width: 900px) {
     #myphoto {
       width:60%;
       height:auto;
