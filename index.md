@@ -9,8 +9,9 @@ sitemap:
 ---
 <!-- <p id="describe-text">CS Major at Queensland University of Technology. Graduating December 2022.</p> -->
 <img id="myphoto" src="
-https://i2.wp.com/graphicpolicy.com/wp-content/uploads/2018/06/THE_FOREVER_WAR_FOREVER_FREE_3_lowres_Page_Cover-A.jpg
+https://via.placeholder.com/500
 " alt="My photo"> 
+
 <br>
 Hi there! 
 <br> 

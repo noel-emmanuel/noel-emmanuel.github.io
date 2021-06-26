@@ -8,17 +8,22 @@
     background-color: #FFF; } */
 
   #myphoto{
-    width:20%;
+    width:40%;
     height:auto;
   }
   a {
     color: #57A;
     text-decoration: none; }
+
+  p {
+    padding-right: 40%;
+  }
   
 
   p, ul, ol, dl {
     font-size: 100%;
-    line-height: 32px; }
+    line-height: 32px; 
+  }
   
   h1, h2, h3, h4, h5, h6 {
     color: #212529;
@@ -216,14 +221,17 @@
     font-size: 130%; }
 
 /* =Small screen *//*************************************************************/
-  @media (max-width: 900px) {
+/* mobile display */
+  @media (max-width: 1000px) {
     #myphoto {
-      width:60%;
+      width:40%;
       height:auto;
     }
     p, ul, ol, dl {
       font-size: 100%;
-      line-height: 1.6; }
+      line-height: 1.6; 
+      padding-right: 0%;
+    }
 
     .wrapper {
       width: 90%;
